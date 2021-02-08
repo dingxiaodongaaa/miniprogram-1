@@ -1,0 +1,2 @@
+<view class="hello-world-container"> {{ msg }} </view>
+<button type="primary">页面主操作 Normal</button>
