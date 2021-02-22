@@ -1,3 +1,6 @@
 {
-  "navigationBarTitleText": "HELLO WORLD"
+  "navigationBarTitleText": "HELLO WORLD",
+  "usingComponents": {
+    "mp-emoji": "@miniprogram-component-plus/emoji"
+  }
 }
